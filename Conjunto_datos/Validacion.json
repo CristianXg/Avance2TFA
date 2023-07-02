@@ -1,0 +1,107 @@
+{
+    "data": [
+        {
+            "title": "Anomal\u00edas en las v\u00edas",
+            "paragraphs": [
+                {
+                    "context": "Las anomal\u00edas que detecta este proyecto son, baches, hoyos y grietas presentes en las v\u00edas de la FEIRNNR de la UNL. ",
+                    "qas": [
+                        {
+                            "question": "Qu\u00e9 tipos de anomal\u00edas detecta este proyecto?",
+                            "answers": [
+                                {
+                                    "text": "Detecta baches, hoyos y grietas presentes en las v\u00edas de la FEIRNNR de la UNL.",
+                                    "answer_start": 0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Baches",
+            "paragraphs": [
+                {
+                    "context": "Un bache es un agujero o desnivel en la superficie de un camino o carretera, generalmente producido por el uso excesivo de la v\u00eda. Los baches causan daños en los componentes de la suspensi\u00f3n y la direcci\u00f3n, as\u00ed como los neum\u00e1ticos en autom\u00f3viles. Adem\u00e1s, los baches pueden provocar accidentes de tr\u00e1fico y aumentar el tiempo de viaje.",
+                    "qas": [
+                        {
+                            "question": "Qu\u00e9 es un bache?",
+                            "answers": [
+                                {
+                                    "text": "Un bache es un agujero o desnivel en la superficie de un camino o carretera, generalmente producido por el uso excesivo de la v\u00eda.",
+                                    "answer_start": 9
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Qu\u00e9 efectos negativos tiene un bache?",
+                            "answers": [
+                                {
+                                    "text": "Los baches causan daños en los componentes de la suspensi\u00f3n y la direcci\u00f3n, as\u00ed como los neum\u00e1ticos en autom\u00f3viles. Adem\u00e1s, los baches pueden provocar accidentes de tr\u00e1fico y aumentar el tiempo de viaje.",
+                                    "answer_start": 11
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Hoyos",
+            "paragraphs": [
+                {
+                    "context": " Un hoyo, es un hundimiento del suelo por haberse producido un hueco subterr\u00e1neo. A diferencia de un bache, un hoyo no es superficial, sino una anomal\u00eda aún m\u00e1s grande a diferencia del bache.",
+                    "qas": [
+                        {
+                            "question": "Qu\u00e9 es un bache?",
+                            "answers": [
+                                {
+                                    "text": "Un hoyo, es un hundimiento del suelo por haberse producido un hueco subterr\u00e1neo.",
+                                    "answer_start": 9
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Qu\u00e9 diferencia existe con los baches?",
+                            "answers": [
+                                {
+                                    "text": "A diferencia de un bache, un hoyo no es superficial, sino una anomal\u00eda aún m\u00e1s grande a diferencia del bache.",
+                                    "answer_start": 0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Grietas",
+            "paragraphs": [
+                {
+                    "context": "Una grieta en el pavimento es una fisura o fractura que se produce en la superficie del pavimento. Las grietas pueden ser causadas por varios factores, como la edad del pavimento, la exposici\u00f3n a los elementos y el tr\u00e1fico. Las grietas pueden ser un problema menor si son pequeñas y no afectan la integridad estructural del pavimento. Sin embargo, las grietas m\u00e1s grandes pueden indicar un problema m\u00e1s grave con el pavimento, como la falta de soporte o la erosi\u00f3n del suelo debajo del pavimento. En general, es importante reparar las grietas en el pavimento para evitar que se conviertan en un problema mayor.",
+                    "qas": [
+                        {
+                            "question": "Qu\u00e9 es una grieta?",
+                            "answers": [
+                                {
+                                    "text": "Una grieta en el pavimento es una fisura o fractura que se produce en la superficie del pavimento.",
+                                    "answer_start": 27
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Ocasiona problemas graves?",
+                            "answers": [
+                                {
+                                    "text": "Las grietas pueden ser un problema menor si son pequeñas y no afectan la integridad estructural del pavimento. Sin embargo, las grietas m\u00e1s grandes pueden indicar un problema m\u00e1s grave con el pavimento, como la falta de soporte o la erosi\u00f3n del suelo debajo del pavimento. En general, es importante reparar las grietas en el pavimento para evitar que se conviertan en un problema mayor.",
+                                    "answer_start": 12
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
